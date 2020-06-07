@@ -92,7 +92,7 @@
     <string name="action_manual">수동</string>
     <string name="action_auto">자동</string>
     <string name="action_follow_me">개발자에게 연락하기</string>
-    <string name="url_twitter">twitter.com/RestainoAnthony</string>
+    <string name="url_twitter">mailto:smappdevinc@gmail.com</string>
     <string name="clear_cache">캐시 지우기</string>
     <string name="message_cache_cleared">캐시를 지웠습니다</string>
     <string name="message_import">즐겨찾기를 가져왔습니다</string>
@@ -242,7 +242,7 @@
     <string name="title_permission_request">권한 요청</string>
     <string name="message_certificate_domain_mismatch">인증서 도메인과 사이트 도메인이 일치하지 않습니다</string>
     <string name="ssl_warning_dont_ask_again">이번 세션에서는 다시 묻지 않습니다.</string>
-    <string name="message_insecure_connection">이 사이트는 안전하지 않습니다: %1$s 계속할까요?</string>
+    <string name="message_insecure_connection">Connection to the site \n%2$s\nis not secure:\n%1$s\nProceed anyway?</string>
     <string name="message_certificate_not_yet_valid">인증서가 아직 유효하지 않습니다</string>
     <string name="message_permission_request">%1$s  다음 권한을 사용하려 합니다:  %2$s</string>
     <string name="tabs_in_drawer">탭을 탐색 창에 표시</string>

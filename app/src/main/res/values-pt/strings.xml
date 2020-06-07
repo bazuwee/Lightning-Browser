@@ -16,7 +16,7 @@
 
 <resources>
 
-    <string name="app_name">Lightning</string>
+    <string name="app_name">Lightning Plus</string>
     <string name="action_new_tab">Novo separador</string>
     <string name="action_share">Partilhar</string>
     <string name="action_history">Histórico</string>
@@ -113,7 +113,7 @@
     <string name="action_manual">Manual</string>
     <string name="action_auto">Automático</string>
     <string name="action_follow_me">Contactos</string>
-    <string name="url_twitter">twitter.com/RestainoAnthony</string>
+    <string name="url_twitter">mailto:smappdevinc@gmail.com</string>
     <string name="clear_cache">Limpar cache</string>
     <string name="message_cache_cleared">Cache limpa</string>
     <string name="message_import">Marcadores importados</string>
@@ -127,7 +127,7 @@
     <string name="licenses">Licenças Open Source</string>
     <string name="suggestion">Pesquisar por</string>
     <string name="block_ads">Bloquear anúncios</string>
-    <string name="message_insecure_connection">A ligação a este site não é segura:\n%1$s\nContinuar?</string>
+    <string name="message_insecure_connection">Connection to the site \n%2$s\nis not secure:\n%1$s\nProceed anyway?</string>
     <string name="message_certificate_date_invalid">data de certificado inválida</string>
     <string name="message_certificate_expired">certificado expirado</string>
     <string name="message_certificate_domain_mismatch">domínio do certificado não coincide com o domínio do site</string>

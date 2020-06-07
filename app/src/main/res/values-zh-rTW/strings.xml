@@ -100,7 +100,7 @@
     <string name="action_manual">手動</string>
     <string name="action_auto">自動</string>
     <string name="action_follow_me">聯絡作者</string>
-    <string name="url_twitter">twitter.com/ACRDevelopment</string>
+    <string name="url_twitter">mailto:smappdevinc@gmail.com</string>
     <string name="clear_cache">清除快取</string>
     <string name="message_cache_cleared">已清除快取</string>
     <string name="message_import">書籤已匯入</string>
@@ -116,7 +116,7 @@
 
     <!-- certificate -->
     <string name="ssl_warning_dont_ask_again">不要再詢問此瀏覽階段。</string>
-    <string name="message_insecure_connection">此網站的連線不安全：\n%1$s\n仍要繼續？</string>
+    <string name="message_insecure_connection">Connection to the site \n%2$s\nis not secure:\n%1$s\nProceed anyway?</string>
     <string name="message_certificate_date_invalid">憑證日期無效</string>
     <string name="message_certificate_expired">憑證已到期</string>
     <string name="message_certificate_domain_mismatch">憑證中的網域與網站中的網域不符</string>

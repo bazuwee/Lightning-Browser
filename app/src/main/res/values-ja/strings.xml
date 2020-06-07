@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
-    <string name="app_name">Lightning</string>
+    <string name="app_name">Lightning Plus</string>
     <string name="action_new_tab">新しいタブ</string>
     <string name="action_share">共有</string>
     <string name="action_history">履歴</string>
@@ -100,7 +100,7 @@
     <string name="action_manual">手動</string>
     <string name="action_auto">自動</string>
     <string name="action_follow_me">問い合わせ先</string>
-    <string name="url_twitter">twitter.com/RestainoAnthony</string>
+    <string name="url_twitter">mailto:smappdevinc@gmail.com</string>
     <string name="clear_cache">キャッシュを消去する</string>
     <string name="message_cache_cleared">キャッシュを消去しました</string>
     <string name="message_import">ブックマークをインポートしました</string>
@@ -114,7 +114,7 @@
     <string name="licenses">オープンソース ライセンス</string>
     <string name="suggestion">検索 :</string>
     <string name="block_ads">広告をブロックする</string>
-    <string name="message_insecure_connection">このサイトへの接続は安全ではありません:\n%1$s\nそれでも続行しますか?</string>
+    <string name="message_insecure_connection">Connection to the site \n%2$s\nis not secure:\n%1$s\nProceed anyway?</string>
     <string name="message_certificate_date_invalid">証明書の日付が無効です</string>
     <string name="message_certificate_expired">証明書の期限が切れました</string>
     <string name="message_certificate_domain_mismatch">証明書のドメインとサイトのドメインが一致しません</string>

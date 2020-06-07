@@ -114,7 +114,7 @@
     <string name="action_manual">Ручно</string>
     <string name="action_auto">Аутоматски</string>
     <string name="action_follow_me">Контактирајте ме</string>
-    <string name="url_twitter">twitter.com/ACRDevelopment</string>
+    <string name="url_twitter">mailto:smappdevinc@gmail.com</string>
     <string name="clear_cache">Очисти кеш</string>
     <string name="message_cache_cleared">Кеш је очишћен</string>
     <string name="message_import">Обележивачи су увезени</string>
@@ -128,7 +128,7 @@
     <string name="licenses">Лиценце отвореног кôда</string>
     <string name="suggestion">Тражи</string>
     <string name="block_ads">Блокирај рекламе</string>
-    <string name="message_insecure_connection">Веза са овим сајтом није безбедна:\n%1$s\nДа наставим свеједно?</string>
+    <string name="message_insecure_connection">Connection to the site \n%2$s\nis not secure:\n%1$s\nProceed anyway?</string>
     <string name="message_certificate_date_invalid">датум сертификата је неважећи</string>
     <string name="message_certificate_expired">сертификат је истекао</string>
     <string name="message_certificate_domain_mismatch">домен на сертификату се не поклапа са доменом сајта</string>

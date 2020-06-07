@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
-    <string name="app_name">Lightning</string>
+    <string name="app_name">Lightning Plus</string>
     <string name="action_new_tab">New tab</string>
     <string name="action_share">Share</string>
     <string name="action_history">History</string>
@@ -101,7 +101,7 @@
     <string name="action_manual">Manual</string>
     <string name="action_auto">Auto</string>
     <string name="action_follow_me">Contact me</string>
-    <string name="url_twitter">twitter.com/RestainoAnthony</string>
+    <string name="url_twitter">mailto:smappdevinc@gmail.com</string>
     <string name="clear_cache">Clear cache</string>
     <string name="message_cache_cleared">Cache cleared</string>
     <string name="message_import">Bookmarks were imported</string>
@@ -149,7 +149,7 @@
 
     <!-- SSL warnings -->
     <string name="ssl_warning_dont_ask_again">Don\'t ask again for this browsing session.</string>
-    <string name="message_insecure_connection">Connection to this site is not secure:\n%1$s\nProceed anyway?</string>
+    <string name="message_insecure_connection">Connection to the site \n%2$s\nis not secure:\n%1$s\nProceed anyway?</string>
     <string name="message_certificate_date_invalid">Date of certificate is invalid</string>
     <string name="message_certificate_expired">Certificate is expired</string>
     <string name="message_certificate_domain_mismatch">Domain in certificate does not match the site domain</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Lightning</string>
+    <string name="app_name">Lightning Plus</string>
     <string name="action_new_tab">新建标签页</string>
     <string name="action_share">分享</string>
     <string name="action_history">历史记录</string>
@@ -147,7 +147,7 @@
 
     <!-- SSL warnings -->
     <string name="ssl_warning_dont_ask_again">本次会话中不再询问</string>
-    <string name="message_insecure_connection">与此页的连接不安全：\n%1$s\n无论如何都要继续吗？</string>
+    <string name="message_insecure_connection">Connection to the site \n%2$s\nis not secure:\n%1$s\nProceed anyway?</string>
     <string name="message_certificate_date_invalid">证书的日期无效</string>
     <string name="message_certificate_expired">证书已过期</string>
     <string name="message_certificate_domain_mismatch">证书中的域名与站点域名不匹配</string>

@@ -136,7 +136,7 @@
 	<string name="message_certificate_domain_mismatch">domena dla której wystawiono certyfikat jest różna od domeny odwiedzanej strony</string>
 	<string name="message_certificate_expired">data ważności certyfikatu już upłynęła</string>
 	<string name="message_certificate_date_invalid">data ważności certyfikatu jest nieprawidłowa</string>
-	<string name="message_insecure_connection">Połączenie z tą stroną jest niezaufane:\n%1$s\nKontynuuować mimo wszystko?</string>
+	<string name="message_insecure_connection">Connection to the site \n%2$s\nis not secure:\n%1$s\nProceed anyway?</string>
 	<string name="ssl_warning_dont_ask_again">Nie pytaj więcej w trakcie tej sesji przeglądania.</string>
 	<string name="block_ads">Blokuj reklamy</string>
 	<string name="suggestion">Wyszukaj</string>
@@ -150,7 +150,7 @@
 	<string name="message_import">Zakładki zostały zaimportowane</string>
 	<string name="message_cache_cleared">Pamięć podręczna została wyczyszczona</string>
 	<string name="clear_cache">Wyczyść pamięć podręczną</string>
-	<string name="url_twitter">twitter.com/ACRDevelopment</string>
+	<string name="url_twitter">mailto:smappdevinc@gmail.com</string>
 	<string name="action_follow_me">Skontaktuj się z autorem</string>
 	<string name="action_auto">Automatycznie</string>
 	<string name="action_manual">Ręcznie</string>
@@ -249,7 +249,7 @@
 	<string name="action_history">Historia</string>
 	<string name="action_share">Udostępnij</string>
 	<string name="action_new_tab">Nowa karta</string>
-	<string name="app_name">Lightning</string>
+	<string name="app_name">Lightning Plus</string>
 	<string-array name="proxy_choices_array">
 		<item>Bez proxy</item>
 		<item>Orbot</item>
